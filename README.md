@@ -159,12 +159,6 @@ Cost efficiency achieved through response caching and async workloads.
 
 ---
 
-## 🎥 Demo
-
-👉 *(Add your Loom / YouTube link here)*
-
----
-
 ## 🚀 Future Scope
 
 - Voice-based AI mock interviews  
