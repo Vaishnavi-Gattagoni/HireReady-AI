@@ -69,7 +69,7 @@ Designed as a **modular monolith** to ensure rapid MVP delivery with future scal
 
 ## 🔄 User Flow
 
-![User Flow](diagrams/flow.png)
+![User Flow](diagrams/userflow.png)
 
 1. Upload Resume  
 2. AI extracts skills  
@@ -83,7 +83,10 @@ Designed as a **modular monolith** to ensure rapid MVP delivery with future scal
 
 ## 📱 Key Product Screens
 
-![Wireframes](diagrams/wireframes.png)
+![Wireframes](diagrams/wf1.png)
+![Wireframes](diagrams/wf2.png)
+![Wireframes](diagrams/wf3.png)
+![Wireframes](diagrams/wf4.png)
 
 - Resume Analysis  
 - AI Learning Dashboard  
